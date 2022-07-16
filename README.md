@@ -1,5 +1,5 @@
 # React Todo list app
-이 프로젝트는 리액트로 만든 ToDO 앱입니다.
+이 프로젝트는 리액트로 만든 ToDo 앱입니다.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
